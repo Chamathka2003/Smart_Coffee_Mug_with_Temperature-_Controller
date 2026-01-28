@@ -73,6 +73,4 @@ Open Source - Feel free to modify and improve!
 
 Created with ❤️ for coffee lovers everywhere!
 
----
-
 **YOLO Deployment**: Because sometimes you just need that perfect cup of coffee NOW! 🚀
